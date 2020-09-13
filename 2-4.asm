@@ -1,0 +1,2 @@
+MOV A, #88H
+ADD A, #93H
