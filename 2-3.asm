@@ -1,2 +1,2 @@
 MOV A, #9CH
-ADD A, #63H
+ADD A, #64H
